@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Geomapping </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.min.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.css' rel='stylesheet' />
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.css'
+        type='text/css' />
+    <link href='css/styles.css' rel='stylesheet' />
+    <link href='css/mobile.css' rel='stylesheet' />
+
+</head>
+
+<body translate="no">
+
+    <div class='overlay'>
+        <div class='overlay-inner'>
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container centered svgMaps">
+        <div class='text header-text' class='text'>
+            <span style="color:rgb(238, 228, 228)"> Nest Seekers Global Heat Map</span>
+            <br>
+            <div style="font-size:12px;">click on a city to explore</div>
+        </div>
+        <div class="right-panel" style="border: none">
+
+            <button class=' total-growth legend-item-detailed-button' data-type='nest' style="margin: 5px; margin-top:25px;">
+                <span class='text total-growth-text' style="color: #B0AEB0;"></span>
+                <br>
+                <span class='text total-growth-value' style="color: #B0AEB0;"></span>
+            </button>
+            <button class="total-millionaires legend-item-detailed-button" style="display:inline-block;margin: 5px;"></button>
+            <button class="total-sales  legend-item-detailed-button" style="display:'inline-block'; margin: 5px; margin-top:25px;"></button>
+            <button class=' total-rent legend-item-detailed-button' data-type='nest' style="margin: 5px;">
+                <span class='text total-rent-text' style="color: #B0AEB0;"></span>
+                <br>
+                <span class='text total-rent-quantity' style="color: #B0AEB0;"></span>
+            </button>
+            <button class=' legend-item-detailed-button nest-seeker' data-type='nest' style="margin: 5px;">
+                <span class='text nest-seekers-office-text' style="color: #B0AEB0;"></span>
+                <br>
+                <span class='text nest-seekers-office-quantity' style="color: #B0AEB0;"></span>
+            </button>
+
+        </div>
+        <div class="continent top  mapBoxMap" style="   
+           position: absolute;
+           left: 55px;
+           width: 91%;
+           top: 90px;">
+            <div style="width:100%;height:100%" id="mapBoxHighLevelMap">
+
+            </div>
+            <button class="high-level-zoom-button" onclick="zoomOutHighLevelMap()" style="display:none;position:absolute;top:10px;left:10px;">
+                Zoom Out</button>
+
+        </div>
+
+        <!-- <div class="continent top northAmerica"></div> -->
+
+
+    </div>
+
+    <div class="detailed-view">
+        <button class='back' onClick='back()'> &#x21E6; back</button>
+        <div class='legends-detailed'>
+            <div class='legend-item-detailed legend-item-detailed-button button nest-seeker' data-type='nest'>
+                <span class='text'>Nest Seekers office</span>
+                <div class="ball"></div>
+            </div>
+            <div class='legend-item-detailed rental' data-type='rent'>
+                <div class='legend-item-detailed-button button' data-type='rent'>
+                    <span class='text'>Rental</span>
+                    <div class="ball"></div>
+                </div>
+                <div id='slider-tooltips-rent' class='range-slider rent-slider'></div>
+            </div>
+            <div class='legend-item-detailed sale' data-type='sale'>
+                <div class='legend-item-detailed-button button' data-type='sale'>
+                    <span class='text'>Sale</span>
+                    <div class="ball"></div>
+                </div>
+                <div id='slider-tooltips-sale' class='range-slider sale-slider'></div>
+            </div>
+        </div>
+        <!-- <div id='mapBoxDetailed'>
+
+        </div> -->
+
+        <div class=" mapbox-detailed-wrapper" style="   
+        position: absolute;
+        left: 5px;
+        width: 100%;
+        height:0%;
+        top: 100px;">
+            <div style="width:100%;height:100%" id="mapBoxDetailed">
+
+            </div>
+            <button class="detailed-level-map-back-button" onclick="back()" style="display:none;position:absolute;top:10px;left:10px;">
+                &#x21E6; Back</button>
+
+            <button class="detailed-level-map-3d-view" onclick="mapboxDetailed3DView()" style="display:none;position:absolute;top:60px;left:10px;">
+                 3D </button>
+        </div>
+    </div>
+
+    <div class="tooltip-content">
+        <div class='header'>
+            <div class='tooltip-main-name'>Miami</div>
+            <div class='growth'>
+                <span class='growth-count'>
+                    3,332 %
+                </span>
+                Growth
+            </div>
+            <div class='listings'>
+                <span class='listings-count'>
+                    3,332
+                </span>
+                Listing(s)
+            </div>
+
+        </div>
+        <div class='legends'>
+            <div class='legend-item' data-type='nest'>
+                <span class='text'>Nest Seekers office</span>
+                <div class="symbol"></div>
+            </div>
+            <div class='legend-item rental' data-type='rent'>
+                <span class='text'>Rental</span>
+                <div class="ball"></div>
+            </div>
+            <div class='legend-item sale' data-type='sale'>
+                <span class='text'>Sale</span>
+                <div class="ball"></div>
+            </div>
+        </div>
+        <div class='millionaries'>
+            <div class="one-m mil">
+                <div class='ball'> </div>
+                <div class='m-text'> 1M+ (Millionaires)</div>
+                <div class='m-number'>31600</div>
+            </div>
+            <div class='ten-m mil'>
+                <div class='ball'> </div>
+                <div class='m-text'> 10M+ (Millionaires)</div>
+                <div class='m-number'>1710</div>
+            </div>
+            <div class='thirty-m mil'>
+                <div class='ball'> </div>
+                <div class='m-text'> 30M+ (Millionaires)</div>
+                <div class='m-number'>750</div>
+            </div>
+        </div>
+
+        <div id='map'></div>
+
+    </div>
+    <script src="scripts/globals.js"></script>
+    <script src="libs/d3.v5.min.js"></script>
+    <script src="scripts/svgChart.js"></script>
+    <script src="libs/nouislider.min.js"></script>
+    <link href='libs/nouislider.min.css' rel='stylesheet' />
+    <script src="scripts/utilityFuncs.js"></script>
+    <script src="scripts/filterSliders.js"></script>
+    <script>
+        mapboxgl.accessToken =
+            "pk.eyJ1IjoiZW5qYWxvdCIsImEiOiIzOTJmMjBiZmI2NGQ2ZjAzODhiMzhiOGI2MTI1YTk4YSJ9.sIOXXU3TPp5dLg_L3cUxhQ";
+        var numberFormat = d3.format(',');
+        var tooltipNumberFormat = d3.format('.2s')
+    </script>
+    <script src="scripts/mapBoxHighLevelMap.js"></script>
+    <script src="scripts/mapbox-stuff.js"></script>
+    <script src="scripts/hoverInteractions.js"></script>
+    <script src="scripts/d3mapInvoking.js"></script>
+
+
+
+</body>
+
+</html>

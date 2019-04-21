@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Chart</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: #191F28;
+            font-family: Arial, Helvetica, sans-serif;
+           
+        }
+        button{
+            background-color:#13191E;
+            border:0.1px solid #434C56;
+            color:#6D757B;
+            font-size:14px;
+            padding:10px;
+            outline:none;
+            cursor:pointer;
+            margin:-2px;
+            margin-bottom:55px;
+            margin-top:20px;
+        }
+
+        button.active{
+            -webkit-box-shadow: 0px 1px 1px #00B593;
+            -moz-box-shadow: 0px 1px 1px #00B593;
+            box-shadow: 0px 1px 1px #00B593;
+            color:#00E1B3;
+        }
+   
+
+        svg {
+            background-color: #191F28;
+        }
+
+        .control-buttons{
+            margin: 0 auto;
+            width: 55%;
+        }
+    </style>
+</head>
+
+<body translate="no">
+<div class="control-buttons">
+    <button class="filters active" data-prop="total">
+        Number of total requests
+    </button>
+    <button class="filters" data-prop="rejected">
+        Rejected requests
+    </button>
+    <button class="filters" data-prop="accepted">
+        Accepted requests
+    </button>
+    <button  class="filters" data-prop="percentTotal">
+        Accepted requests %  over total
+    </button>
+</div>
+    <div class="container centered">
+        <div id="graph-container"></div>
+    </div>
+    <script src="libs/d3.v5.min.js"></script>
+    <script src="scripts/d3script.js"></script>
+
+    <script>
+        let chart;
+        d3.csv('data.csv')
+            .then(data => {
+                chart = Chart()
+                    .svgHeight(window.innerHeight - 140)
+                    .svgWidth(window.innerWidth - 30)
+                    .container('#graph-container')
+                    .data(data)
+                    .render()
+            })
+
+    </script>
+
+
+</body>
+
+</html>

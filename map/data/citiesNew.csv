@@ -1,0 +1,297 @@
+id,city,country_id
+1,New York,231
+2,Miami,231
+3,Brooklyn,231
+4,Queens,231
+5,Staten Island,231
+7,East Quogue,231
+8,Southampton,231
+9,Amagansett,231
+11,East Hampton,231
+12,Sagaponack,231
+13,Sag Harbor,231
+17,Quogue,231
+20,Jersey City,231
+23,Santo Domingo,62
+25,Miami Beach,231
+27,East Moriches,231
+31,North Sea,231
+33,North Miami Beach,231
+41,Montauk,231
+46,Bridgehampton,231
+48,Woodside,231
+50,Westhampton Beach,231
+52,Bayside,231
+67,Wading River,231
+70,Fort Lee,231
+72,Hoboken,231
+77,West Orange,231
+78,Wainscott,231
+80,Woodmere,231
+83,Westhampton,231
+88,Bronx,231
+94,Hampton Bays,231
+99,Sunny Isles Beach,231
+101,Delray Beach,231
+102,Bal Harbour,231
+103,Aventura,231
+109,Hollywood,231
+112,Hallandale,231
+114,Roslyn,231
+117,Shelter Island Heights,231
+118,Shelter Island,231
+121,Edgewater,231
+131,Maspeth,231
+148,Rockville Centre,231
+150,Bloomfield,231
+152,North Bay Village,231
+159,Dubai,229
+172,Ocean Beach,231
+198,Chicago,231
+237,Flushing,231
+242,Water Mill,231
+246,New Hyde Park,231
+249,Remsenburg,231
+250,Farmingdale,231
+251,Riverhead,231
+252,Huntington,231
+253,Freehold,231
+256,Key Biscayne,231
+259,Patchogue,231
+260,Stony Brook,231
+263,Medford,231
+268,Manorville,231
+271,Glen Head,231
+284,Fairview,231
+286,Yonkers,231
+292,Queens Village,231
+293,Orlando,231
+296,Boca Raton,231
+297,Garden City,231
+303,Massapequa,231
+306,Melville,231
+316,Baldwin,231
+331,Coral Gables,231
+407,Los Angeles,231
+423,Merrick,231
+426,North Caldwell,231
+427,Oyster Bay,231
+430,Fair Lawn,231
+445,Syosset,231
+451,Fort Lauderdale,231
+472,West New York,231
+487,Englewood Cliffs,231
+507,Englewood,231
+510,East Marion,231
+514,Teaneck,231
+519,Jamaica,231
+540,Paris,74
+573,Plainview,231
+582,Smithtown,231
+626,Wayne,231
+696,Savannah,231
+734,Newark,231
+751,Old Westbury,231
+773,Long Branch,231
+779,Calverton,231
+792,Santa Ana,231
+832,Peconic,231
+840,Rocky Point,231
+844,Lindenhurst,231
+845,Commack,231
+851,Bohemia,231
+863,Shirley,231
+865,Northport,231
+868,Middle Island,231
+872,Rochester,231
+885,London,230
+889,Fresh Meadows,231
+920,Middle Village,231
+932,Mount Kisco,231
+938,Hempstead,231
+942,Riviera Beach,231
+976,Franklin Square,231
+1000,Beverly Hills,231
+1006,West Hollywood,231
+1019,Malibu,231
+1023,Bellmore,231
+1032,Santa Monica,231
+1052,Dix Hills,231
+1070,Great Neck,231
+1072,Quiogue,231
+1108,Cliffside Park,231
+1174,Bay Harbor Islands,231
+1270,Coconut Grove,231
+1277,Coral Springs,231
+1299,Dania Beach,231
+1301,Davie,231
+1317,Doral,231
+1457,Highland Beach,231
+1501,Islamorada,231
+1514,Jupiter,231
+1556,Lantana,231
+1616,Medley,231
+1678,North Miami,231
+1757,Pinecrest,231
+1770,Pompano Beach,231
+1905,Surfside,231
+2025,De Kwakel,155
+2054,Punta Cana,62
+2077,Ballingarry,105
+2091,Los Angeles (City),231
+2093,Venice,231
+2094,Calabasas,231
+2097,Marina Del Rey,231
+2099,Playa Del Rey,231
+2102,Hollywood Hills East,231
+2104,Brentwood (LA),231
+2108,Westwood - Century City,231
+2109,Hollywood,231
+2125,Oxnard,231
+2143,Torrance,231
+2255,George Town,41
+2288,Verona,231
+2329,Agoura Hills,231
+2335,Burbank,231
+2355,Woodbury,231
+2364,Castiglioncello,108
+2370,Rumson,231
+2388,Livingston,231
+2397,Alcobendas,204
+2429,Cedar Grove,231
+2483,Padua,108
+2493,Ridgewood,231
+2494,Madrid,204
+2499,North Bergen,231
+2502,Union City,231
+2503,"JC, Greenville",231
+2504,Weehawken,231
+2505,"JC, Downtown",231
+2506,"JC, Heights",231
+2507,"JC, Journal Square",231
+2508,Secaucus,231
+2509,Guttenberg,231
+2510,"JC, West Bergen",231
+2511,Clifton,231
+2513,Montclair,231
+2516,Ridgefield Park,231
+2517,Rutherford,231
+2518,Saddle Brook,231
+2519,Saddle River,231
+2522,Totowa,231
+2523,Wyckoff,231
+2524,Kearny,231
+2570,Marbella,204
+2776,Monsuaba,31
+2778,South Orange,231
+2806,Leominster,231
+2834,Brookhaven,231
+2841,West End,41
+2849,Kemptville,39
+2851,Mahwah,231
+2856,City of Orange,231
+2869,Passaic,231
+2879,Fairfield,231
+2888,Ramsey,231
+2900,San Diego,231
+2903,Freeport,231
+2906,Lodi,231
+2913,Newark City,231
+2914,City Of Orange Twp.,231
+2915,East Orange City,231
+2916,West Orange Twp.,231
+2917,Irvington Twp.,231
+2918,Belleville Twp.,231
+2919,Caldwell Boro Twp.,231
+2921,South Orange Village Twp.,231
+2922,Bloomfield Twp.,231
+2923,Millburn Twp.,231
+2925,Nutley Twp.,231
+2926,Montclair Twp.,231
+2927,Maplewood Twp.,231
+2928,Livingston Twp.,231
+2931,Essex Fells Twp.,231
+2934,Garfield City,231
+2935,Lodi Boro,231
+2938,Oakland Boro,231
+2940,Lyndhurst Twp.,231
+2941,Elmwood Park Boro,231
+2949,Hackensack City,231
+2954,Garfield,231
+2955,North Arlington,231
+2957,Mahwah Twp.,231
+2958,Franklin Lakes Boro,231
+2965,Wyckoff Twp.,231
+2972,Paramus Boro,231
+2975,Saddle Brook Twp.,231
+2983,Haworth Boro,231
+2998,Howell Twp.,231
+3033,Irvington,231
+3034,Belleville,231
+3035,Nutley,231
+3036,East Orange,231
+3040,Ferndale,231
+3045,West Caldwell Twp.,231
+3049,Westbury,231
+3051,Oceanside,231
+3058,Anza,231
+3061,Cooperstown,231
+3069,Victoria,39
+3070,Paterson,231
+3071,Cresskill Boro,231
+3072,Armonk,231
+3074,Alcossebre,204
+3077,Alcoi,204
+3085,Ha'apiti,76
+3086,North Brunswick Township,231
+3093,"JC, Bergen-Lafayett",231
+3096,Hartsdale,231
+3099,Swanton,231
+3100,Mill Neck,231
+3101,Orinda,231
+3102,Poughkeepsie,231
+3104,Vernon Township,231
+3106,Ballston Lake,231
+3109,Millburn,231
+3111,Kirkfield,39
+3120,Delmar,231
+3121,Rochelle Park Twp.,231
+3122,Mt. Sinai,231
+3123,Beechhurst,231
+3124,E. Elmhurst,231
+3125,Lido Beach,231
+3126,E. Northport,231
+3127,Nissequogue,231
+3128,W. Hempstead,231
+3129,Massapequa Park,231
+3130,Rosedale,231
+3131,Jericho,231
+3132,Old Field,231
+3133,Levittown,231
+3134,Douglaston,231
+3135,Plandome,231
+3136,E. Quogue,231
+3137,Huntington Bay,231
+3138,Williston Park,231
+3139,Cedarhurst,231
+3140,Davis Park,231
+3141,Out Of Area Town,231
+3142,Stewart Manor,231
+R0,Unknown,0
+R1,New York,231
+R3,The Hamptons,231
+R12,Los Angeles,231
+R13,London,230
+R15,New Jersey,231
+R2,New York,231
+R7,New York,231
+R4,Miami,231
+R16,Long Island,231
+R14,Westchester,0
+R8,Long Island,231
+R9,New York,231
+R10,New York,231
+R5,New York,0
+R6,United States,0
+R11,International,0
+R17,Cote D'azur,0

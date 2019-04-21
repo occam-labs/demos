@@ -1,0 +1,170 @@
+
+
+@media only screen and (max-width: 3000px) {
+    .right-panel{
+        right: 5%;
+    }
+}
+
+@media only screen and (max-width: 2000px) {
+    .right-panel{
+        right: 3%;
+    }
+}
+
+
+@media only screen and (max-width: 1400px) {
+    .detailed-level-map-back-button{
+        display:initial;
+    }
+    .mapbox-detailed-wrapper{
+        top: 300px !important;
+    }
+    .continent{
+        margin-top:100px;
+    } 
+    .right-panel {
+        margin-top: 10px;
+            width: 90%;
+    }
+}
+
+
+@media only screen and (max-width: 1400px) {
+
+    .mapBoxMap{
+        top:0px !important;
+    }
+   
+    /* First Page */
+    .mapboxgl-ctrl-attrib.mapboxgl-compact {
+        display: none;
+    }
+
+
+    .tooltip-content{
+        display:none;
+        opacity:0;
+    }
+
+  
+
+    .total-sales.legend-item-detailed-button{
+        margin-top:0 !important;
+    }
+
+    .right-panel{
+        display: block;
+        margin-top:-10px;
+        right:auto;
+    }
+
+    .continent{
+        margin-top: 200px;;
+   } 
+
+
+   /* Inner Page */
+   .legends-detailed>div{
+       display:block;
+   }
+
+   #mapBoxDetailed{
+    top: 0px;
+    height:600px!important;
+   }
+
+   .legend-item-detailed {
+    margin-top: 40px;;
+   }
+
+   .legends-detailed{
+       float:initial;
+       margin:0px;
+       padding-top: 170px;
+   }
+
+   .back{
+       position:static;
+       width:100%;
+   }
+
+   .detailed-view .legend-item-detailed{
+    margin-left: 0px;
+    margin-right:0px;
+    text-align: center;
+   }   
+
+   .legend-item-detailed-button[data-type="rent"]{
+     float:left;
+     width: 70px;
+   }
+
+   .legend-item-detailed-button[data-type="sale"]{
+    float:left;
+    width: 70px;
+  }
+
+  #slider-tooltips-rent{
+    width: calc(100% - 170px);
+  }
+
+  #slider-tooltips-sale{
+    width: calc(100% - 170px);
+  }
+
+  .noUi-horizontal {
+    margin-top: 17px;
+    /* float: right; */
+    margin-right: 20px;
+  }
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 1000px) {
+    .continent{
+        margin-top: 400px;;
+   } 
+
+    .mapBoxMap{
+        top:0px !important;
+    }
+
+    .right-panel .legend-item-detailed-button{
+        width:40%;
+        padding: 5px 10px;
+    }
+   
+    .right-panel .legend-item-detailed-button.nest-seeker{
+        width:82%;
+    }
+    .svgMaps{
+        padding-left:0px;
+    }
+
+
+    .right-panel {
+        width: 110%;
+    }
+
+    .mapBoxMap{
+        left:20px !important;
+        width:95%!important;
+    }
+}
+
+
+@media only screen and (max-width: 500px) {
+   
+  
+
+    .mapBoxMap{
+        left:20px !important;
+        width:90%!important;
+    }
+}

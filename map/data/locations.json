@@ -1,0 +1,194 @@
+[
+    {
+        "Country": "China",
+        "Parent City": "Beijing",
+        "Latitude": "39.907",
+        "Longitude": "116.397 "
+    },
+    {
+        "Country": "China",
+        "Parent City": "Hong Kong",
+        "Latitude": "22.3964",
+        "Longitude": "114.1095"
+    },
+    {
+        "Country": "Germany",
+        "Parent City": "Berlin",
+        "Latitude": "52.5161",
+        "Longitude": "13.377 "
+    },
+    {
+        "Country": "UAE",
+        "Parent City": "Dubai",
+        "Latitude": "25.252",
+        "Longitude": "55.28 "
+    },
+    {
+        "Country": "Germany",
+        "Parent City": "Frankfurt",
+        "Latitude": "50.1121",
+        "Longitude": "8.6834 "
+    },
+    {
+        "Country": "Switzerland",
+        "Parent City": "Geneva",
+        "Latitude": "46.2083",
+        "Longitude": "6.1428 "
+    },
+    {
+        "Country": "United Kingdom",
+        "Parent City": "London",
+        "Latitude": "51.5064",
+        "Longitude": "-0.1272 "
+    },
+    {
+        "Country": "United States",
+        "Parent City": "Los Angeles",
+        "Latitude": "34.0535",
+        "Longitude": "-118.2453 "
+    },
+    {
+        "Country": "Spain",
+        "Parent City": "Madrid",
+        "Latitude": "40.4203",
+        "Longitude": "-3.7058 "
+    },
+    {
+        "Country": "Australia",
+        "Parent City": "Melbourne",
+        "Latitude": "-37.814",
+        "Longitude": "144.963 "
+    },
+    {
+        "Country": "Mexico",
+        "Parent City": "Mexico City",
+        "Latitude": "19.4285",
+        "Longitude": "-99.1277 "
+    },
+    {
+        "Country": "United States",
+        "Parent City": "Miami",
+        "Latitude": "25.767551",
+        "Longitude": "-80.238045 "
+    },
+    {
+        "Country": "Italy",
+        "Parent City": "Milan",
+        "Latitude": "45.468",
+        "Longitude": "9.1818 "
+    },
+    {
+        "Country": "Monaco",
+        "Parent City": "Monaco",
+        "Latitude": "43.733",
+        "Longitude": "7.416 "
+    },
+    {
+        "Country": "India",
+        "Parent City": "Mumbai",
+        "Latitude": "19.014",
+        "Longitude": "72.847 "
+    },
+    {
+        "Country": "United States",
+        "Parent City": "New York",
+        "Latitude": "40.7146",
+        "Longitude": "-74.0071 "
+    },
+    {
+        "Country": "Japan",
+        "Parent City": "Osaka",
+        "Latitude": "34.693",
+        "Longitude": "135.502 "
+    },
+    {
+        "Country": "France",
+        "Parent City": "Paris",
+        "Latitude": "48.8569",
+        "Longitude": "2.3412 "
+    },
+    {
+        "Country": "Brazil",
+        "Parent City": "Rio",
+        "Latitude": "-22.902",
+        "Longitude": "-43.207 "
+    },
+    {
+        "Country": "United States",
+        "Parent City": "San Francisco",
+        "Latitude": "37.7771",
+        "Longitude": "-122.4196 "
+    },
+    {
+        "Country": "South Korea",
+        "Parent City": "Seoul",
+        "Latitude": "37.568",
+        "Longitude": "127.047325"
+    },
+    {
+        "Country": "China",
+        "Parent City": "Shanghai",
+        "Latitude": "31.222",
+        "Longitude": "121.458 "
+    },
+    {
+        "Country": "China",
+        "Parent City": "Shenzen",
+        "Latitude": "22.545",
+        "Longitude": "114.068 "
+    },
+    {
+        "Country": "Singapore",
+        "Parent City": "Singapore",
+        "Latitude": "1.289",
+        "Longitude": "103.85 "
+    },
+    {
+        "Country": "Australia",
+        "Parent City": "Sydney",
+        "Latitude": "-33.867",
+        "Longitude": "151.207 "
+    },
+    {
+        "Country": "Israel",
+        "Parent City": "Tel Aviv",
+        "Latitude": "32.066",
+        "Longitude": "34.766 "
+    },
+    {
+        "Country": "Japan",
+        "Parent City": "Tokyo",
+        "Latitude": "35.6249",
+        "Longitude": "139.5856 "
+    },
+    {
+        "Country": "Canada",
+        "Parent City": "Toronto",
+        "Latitude": "43.7",
+        "Longitude": "-79.416 "
+    },
+    {
+        "Country": "Canada",
+        "Parent City": "Vancouver",
+        "Latitude": "49.249",
+        "Longitude": "-123.119 "
+    },
+    {
+        "Country": "Switzerland",
+        "Parent City": "Zurich",
+        "Latitude": "47.3771",
+        "Longitude": "8.5396"
+    },
+    {
+        "Country": "Switzerland",
+        "Parent City": "Zurich",
+        "Latitude": "47.3771",
+        "Longitude": "8.5396"
+    },
+    {
+        "Country": "United States",
+        "Parent City": "The Hamptons",
+        "Latitude": "40.915103",
+        "Longitude": "-72.385879"
+    }
+]

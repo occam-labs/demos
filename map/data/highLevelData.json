@@ -1,0 +1,932 @@
+[
+  {
+    "ParentCity": "New York",
+    "Country": "USA",
+    "Growth": "5%",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "15180",
+    "Total Per Market": "360950"
+  },
+  {
+    "ParentCity": "Los Angeles",
+    "Country": "USA",
+    "Growth": "",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "7740",
+    "Total Per Market": "184190"
+  },
+  {
+    "ParentCity": "Miami",
+    "Country": "USA",
+    "Growth": "",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "1710",
+    "Total Per Market": "34060"
+  },
+  {
+    "ParentCity": "Seoul",
+    "Country": "KOR",
+    "Growth": "13%",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "4770",
+    "Total Per Market": "114780"
+  },
+  {
+    "ParentCity": "London",
+    "Country": "GBR",
+    "Growth": "",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "12070",
+    "Total Per Market": "374020"
+  },
+  {
+    "ParentCity": "Madrid",
+    "Country": "ESP",
+    "Growth": "11%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "1120",
+    "Total Per Market": "32340"
+  },
+  {
+    "ParentCity": "Vancouver",
+    "Country": "CAN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "1110",
+    "Total Per Market": "32640"
+  },
+  {
+    "ParentCity": "San Francisco",
+    "Country": "USA",
+    "Growth": "8%",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "8400",
+    "Total Per Market": "192170"
+  },
+  {
+    "ParentCity": "Toronto",
+    "Country": "CAN",
+    "Growth": "9%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "3910",
+    "Total Per Market": "114710"
+  },
+  {
+    "ParentCity": "Tokyo",
+    "Country": "JPN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "6760",
+    "Total Per Market": "289100"
+  },
+  {
+    "ParentCity": "Hong Kong",
+    "Country": "CHN",
+    "Growth": "7%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "10180",
+    "Total Per Market": "242160"
+  },
+  {
+    "ParentCity": "Paris",
+    "Country": "FRA",
+    "Growth": "12%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "2900",
+    "Total Per Market": "115120"
+  },
+  {
+    "ParentCity": "Monaco",
+    "Country": "MCO",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "2400",
+    "Total Per Market": "17010"
+  },
+  {
+    "ParentCity": "Beijing",
+    "Country": "CHN",
+    "Growth": "7%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "5830",
+    "Total Per Market": "130570"
+  },
+  {
+    "ParentCity": "Mexico City",
+    "Country": "MEX",
+    "Growth": "7%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "2860",
+    "Total Per Market": "90780"
+  },
+  {
+    "ParentCity": "Singapore",
+    "Country": "SGP",
+    "Growth": "6%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "7000",
+    "Total Per Market": "226800"
+  },
+  {
+    "ParentCity": "Geneva",
+    "Country": "CHE",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "5890",
+    "Total Per Market": "112760"
+  },
+  {
+    "ParentCity": "Dubai",
+    "Country": "ARE",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "2350",
+    "Total Per Market": "53810"
+  },
+  {
+    "ParentCity": "Sydney",
+    "Country": "AUS",
+    "Growth": "11%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "3700",
+    "Total Per Market": "111730"
+  },
+  {
+    "ParentCity": "Osaka",
+    "Country": "JPN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "2350",
+    "Total Per Market": "120910"
+  },
+  {
+    "ParentCity": "Frankfurt",
+    "Country": "DEU",
+    "Growth": "13%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "4200",
+    "Total Per Market": "134210"
+  },
+  {
+    "ParentCity": "Rio",
+    "Country": "BRA",
+    "Growth": "-9%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "1200",
+    "Total Per Market": "37130"
+  },
+  {
+    "ParentCity": "Shanghai",
+    "Country": "CHN",
+    "Growth": "9%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "5600",
+    "Total Per Market": "125780"
+  },
+  {
+    "ParentCity": "Zurich",
+    "Country": "CHE",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "5870",
+    "Total Per Market": "117440"
+  },
+  {
+    "ParentCity": "Melbourne",
+    "Country": "AUS",
+    "Growth": "10%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "2690",
+    "Total Per Market": "78390"
+  },
+  {
+    "ParentCity": "Mumbai",
+    "Country": "IND",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "3020",
+    "Total Per Market": "50460"
+  },
+  {
+    "ParentCity": "Tel Aviv",
+    "Country": "ISR",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "1870",
+    "Total Per Market": "37840"
+  },
+  {
+    "ParentCity": "Shenzen",
+    "Country": "CHN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "1570",
+    "Total Per Market": "33660"
+  },
+  {
+    "ParentCity": "Milan",
+    "Country": "ITA",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "470",
+    "Total Per Market": "15290"
+  },
+  {
+    "ParentCity": "Berlin",
+    "Country": "DEU",
+    "Growth": "10%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "110",
+    "Total Per Market": "33320"
+  },
+  {
+    "ParentCity": "New York",
+    "Country": "USA",
+    "Growth": "5%",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "339200",
+    "Total Per Market": "360950"
+  },
+  {
+    "ParentCity": "Los Angeles",
+    "Country": "USA",
+    "Growth": "",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "173300",
+    "Total Per Market": "184190"
+  },
+  {
+    "ParentCity": "Miami",
+    "Country": "USA",
+    "Growth": "",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "31600",
+    "Total Per Market": "34060"
+  },
+  {
+    "ParentCity": "Seoul",
+    "Country": "KOR",
+    "Growth": "13%",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "108100",
+    "Total Per Market": "114780"
+  },
+  {
+    "ParentCity": "London",
+    "Country": "GBR",
+    "Growth": "",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "357200",
+    "Total Per Market": "374020"
+  },
+  {
+    "ParentCity": "Madrid",
+    "Country": "ESP",
+    "Growth": "11%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "30700",
+    "Total Per Market": "32340"
+  },
+  {
+    "ParentCity": "Vancouver",
+    "Country": "CAN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "31100",
+    "Total Per Market": "32640"
+  },
+  {
+    "ParentCity": "San Francisco",
+    "Country": "USA",
+    "Growth": "8%",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "180300",
+    "Total Per Market": "192170"
+  },
+  {
+    "ParentCity": "Toronto",
+    "Country": "CAN",
+    "Growth": "9%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "109300",
+    "Total Per Market": "114710"
+  },
+  {
+    "ParentCity": "Tokyo",
+    "Country": "JPN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "279800",
+    "Total Per Market": "289100"
+  },
+  {
+    "ParentCity": "Hong Kong",
+    "Country": "CHN",
+    "Growth": "7%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "227900",
+    "Total Per Market": "242160"
+  },
+  {
+    "ParentCity": "Paris",
+    "Country": "FRA",
+    "Growth": "12%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "110900",
+    "Total Per Market": "115120"
+  },
+  {
+    "ParentCity": "Monaco",
+    "Country": "MCO",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "13400",
+    "Total Per Market": "17010"
+  },
+  {
+    "ParentCity": "Beijing",
+    "Country": "CHN",
+    "Growth": "7%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "122100",
+    "Total Per Market": "130570"
+  },
+  {
+    "ParentCity": "Mexico City",
+    "Country": "MEX",
+    "Growth": "7%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "86700",
+    "Total Per Market": "90780"
+  },
+  {
+    "ParentCity": "Singapore",
+    "Country": "SGP",
+    "Growth": "6%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "217300",
+    "Total Per Market": "226800"
+  },
+  {
+    "ParentCity": "Geneva",
+    "Country": "CHE",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "104300",
+    "Total Per Market": "112760"
+  },
+  {
+    "ParentCity": "Dubai",
+    "Country": "ARE",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "50400",
+    "Total Per Market": "53810"
+  },
+  {
+    "ParentCity": "Sydney",
+    "Country": "AUS",
+    "Growth": "11%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "106800",
+    "Total Per Market": "111730"
+  },
+  {
+    "ParentCity": "Osaka",
+    "Country": "JPN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "117700",
+    "Total Per Market": "120910"
+  },
+  {
+    "ParentCity": "Frankfurt",
+    "Country": "DEU",
+    "Growth": "13%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "128300",
+    "Total Per Market": "134210"
+  },
+  {
+    "ParentCity": "Rio",
+    "Country": "BRA",
+    "Growth": "-9%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "35300",
+    "Total Per Market": "37130"
+  },
+  {
+    "ParentCity": "Shanghai",
+    "Country": "CHN",
+    "Growth": "9%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "117600",
+    "Total Per Market": "125780"
+  },
+  {
+    "ParentCity": "Zurich",
+    "Country": "CHE",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "109200",
+    "Total Per Market": "117440"
+  },
+  {
+    "ParentCity": "Melbourne",
+    "Country": "AUS",
+    "Growth": "10%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "74800",
+    "Total Per Market": "78390"
+  },
+  {
+    "ParentCity": "Mumbai",
+    "Country": "IND",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "46100",
+    "Total Per Market": "50460"
+  },
+  {
+    "ParentCity": "Tel Aviv",
+    "Country": "ISR",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "35200",
+    "Total Per Market": "37840"
+  },
+  {
+    "ParentCity": "Shenzen",
+    "Country": "CHN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "31400",
+    "Total Per Market": "33660"
+  },
+  {
+    "ParentCity": "Milan",
+    "Country": "ITA",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "14600",
+    "Total Per Market": "15290"
+  },
+  {
+    "ParentCity": "Berlin",
+    "Country": "DEU",
+    "Growth": "10%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "32800",
+    "Total Per Market": "33320"
+  },
+  {
+    "ParentCity": "New York",
+    "Country": "USA",
+    "Growth": "5%",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "6570",
+    "Total Per Market": "360950"
+  },
+  {
+    "ParentCity": "Los Angeles",
+    "Country": "USA",
+    "Growth": "",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "3150",
+    "Total Per Market": "184190"
+  },
+  {
+    "ParentCity": "Miami",
+    "Country": "USA",
+    "Growth": "",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "750",
+    "Total Per Market": "34060"
+  },
+  {
+    "ParentCity": "Seoul",
+    "Country": "KOR",
+    "Growth": "13%",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "1910",
+    "Total Per Market": "114780"
+  },
+  {
+    "ParentCity": "London",
+    "Country": "GBR",
+    "Growth": "",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "4750",
+    "Total Per Market": "374020"
+  },
+  {
+    "ParentCity": "Madrid",
+    "Country": "ESP",
+    "Growth": "11%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "520",
+    "Total Per Market": "32340"
+  },
+  {
+    "ParentCity": "Vancouver",
+    "Country": "CAN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "430",
+    "Total Per Market": "32640"
+  },
+  {
+    "ParentCity": "San Francisco",
+    "Country": "USA",
+    "Growth": "8%",
+    "HasOffice": "yes",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "3470",
+    "Total Per Market": "192170"
+  },
+  {
+    "ParentCity": "Toronto",
+    "Country": "CAN",
+    "Growth": "9%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "1500",
+    "Total Per Market": "114710"
+  },
+  {
+    "ParentCity": "Tokyo",
+    "Country": "JPN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "2540",
+    "Total Per Market": "289100"
+  },
+  {
+    "ParentCity": "Hong Kong",
+    "Country": "CHN",
+    "Growth": "7%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "4080",
+    "Total Per Market": "242160"
+  },
+  {
+    "ParentCity": "Paris",
+    "Country": "FRA",
+    "Growth": "12%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "1320",
+    "Total Per Market": "115120"
+  },
+  {
+    "ParentCity": "Monaco",
+    "Country": "MCO",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "1210",
+    "Total Per Market": "17010"
+  },
+  {
+    "ParentCity": "Beijing",
+    "Country": "CHN",
+    "Growth": "7%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "2640",
+    "Total Per Market": "130570"
+  },
+  {
+    "ParentCity": "Mexico City",
+    "Country": "MEX",
+    "Growth": "7%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "1220",
+    "Total Per Market": "90780"
+  },
+  {
+    "ParentCity": "Singapore",
+    "Country": "SGP",
+    "Growth": "6%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "2500",
+    "Total Per Market": "226800"
+  },
+  {
+    "ParentCity": "Geneva",
+    "Country": "CHE",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "2570",
+    "Total Per Market": "112760"
+  },
+  {
+    "ParentCity": "Dubai",
+    "Country": "ARE",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "1060",
+    "Total Per Market": "53810"
+  },
+  {
+    "ParentCity": "Sydney",
+    "Country": "AUS",
+    "Growth": "11%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "1230",
+    "Total Per Market": "111730"
+  },
+  {
+    "ParentCity": "Osaka",
+    "Country": "JPN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "860",
+    "Total Per Market": "120910"
+  },
+  {
+    "ParentCity": "Frankfurt",
+    "Country": "DEU",
+    "Growth": "13%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "1710",
+    "Total Per Market": "134210"
+  },
+  {
+    "ParentCity": "Rio",
+    "Country": "BRA",
+    "Growth": "-9%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "630",
+    "Total Per Market": "37130"
+  },
+  {
+    "ParentCity": "Shanghai",
+    "Country": "CHN",
+    "Growth": "9%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "2580",
+    "Total Per Market": "125780"
+  },
+  {
+    "ParentCity": "Zurich",
+    "Country": "CHE",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "2370",
+    "Total Per Market": "117440"
+  },
+  {
+    "ParentCity": "Melbourne",
+    "Country": "AUS",
+    "Growth": "10%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "900",
+    "Total Per Market": "78390"
+  },
+  {
+    "ParentCity": "Mumbai",
+    "Country": "IND",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "1340",
+    "Total Per Market": "50460"
+  },
+  {
+    "ParentCity": "Tel Aviv",
+    "Country": "ISR",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "770",
+    "Total Per Market": "37840"
+  },
+  {
+    "ParentCity": "Shenzen",
+    "Country": "CHN",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "690",
+    "Total Per Market": "33660"
+  },
+  {
+    "ParentCity": "Milan",
+    "Country": "ITA",
+    "Growth": "",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "220",
+    "Total Per Market": "15290"
+  },
+  {
+    "ParentCity": "Berlin",
+    "Country": "DEU",
+    "Growth": "10%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "410",
+    "Total Per Market": "33320"
+  },
+  {
+    "ParentCity": "The Hamptons",
+    "Country": "USA",
+    "Growth": "10%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "30M+ (UHNWIS)",
+    "Numbers": "410",
+    "Total Per Market": "33320"
+  },
+  {
+    "ParentCity": "The Hamptons",
+    "Country": "USA",
+    "Growth": "10%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "10M+ (Multimillionaires)",
+    "Numbers": "410",
+    "Total Per Market": "33320"
+  },
+  {
+    "ParentCity": "The Hamptons",
+    "Country": "USA",
+    "Growth": "10%",
+    "HasOffice": "no",
+    "NumberOfRecords": "1",
+    "Millionaires": "1M+ (Millionaires)",
+    "Numbers": "410",
+    "Total Per Market": "33320"
+  }
+]

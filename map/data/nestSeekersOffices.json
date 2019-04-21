@@ -1,0 +1,242 @@
+[
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Miami, Florida",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/miami",
+        "lat": "25.79199",
+        "lng": "-80.136836",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Beverly Hills",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/beverly-hills",
+        "lat": "34.069315",
+        "lng": "-118.399588",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Seoul",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Company/Offices",
+        "lat": "37.49484",
+        "lng": "127.02972",
+        "region": "Asia"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "San Francisco",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/san-francisco",
+        "lat": "37.777467",
+        "lng": "-122.41736",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Bedford-Stuyvesant",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/bedford-stuyvesant",
+        "lat": "40.6868",
+        "lng": "-73.944766",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Williamsburg",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/williamsburg",
+        "lat": "40.716794",
+        "lng": "-73.95731",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Jersey City",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/new-jersey",
+        "lat": "40.721167",
+        "lng": "-74.039206",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Soho",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/midtown",
+        "lat": "40.725153",
+        "lng": "-73.996879",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Greenwich Village",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/Soho",
+        "lat": "40.734127",
+        "lng": "-74.002298",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Hoboken",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/hoboken",
+        "lat": "40.737004",
+        "lng": "-74.029785",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Long Island City",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Company/Offices",
+        "lat": "40.744639",
+        "lng": "-73.953783",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Eastside - Corporate",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/eastside",
+        "lat": "40.75691",
+        "lng": "-73.976082",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "International",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/international",
+        "lat": "40.756927",
+        "lng": "-73.976114",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Midtown",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/midtown",
+        "lat": "40.757068",
+        "lng": "-73.977943",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Westside",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/westside",
+        "lat": "40.775997",
+        "lng": "-73.989527",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Westhampton Beach",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/westhampton",
+        "lat": "40.81036",
+        "lng": "-72.642958",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Gold Coast Long Island",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/east-norwich-gold-coast",
+        "lat": "40.842511",
+        "lng": "-73.536988",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Southampton",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/southampton",
+        "lat": "40.885036",
+        "lng": "-72.389223",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Bridgehampton 2",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/water-mill",
+        "lat": "40.936368",
+        "lng": "-72.303779",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Bridgehampton",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/hamptons",
+        "lat": "40.936384",
+        "lng": "-72.303811",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "East Hampton",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/easthampton",
+        "lat": "40.965384",
+        "lng": "-72.187124",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Nest Seekers Westchester, LLC.",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/international",
+        "lat": "40.98863",
+        "lng": "-73.807065",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "Sag Harbor",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/sag-harbor",
+        "lat": "41.000325",
+        "lng": "-72.292839",
+        "region": "Northern America"
+    },
+    {
+        "RentalOrBuy": "Nest Seekers office",
+        "Type": "Nest Seekers Office",
+        "Name": "London",
+        "Pic": "",
+        "Url": "https://www.nestseekers.com/Offices/london",
+        "lat": "51.507483",
+        "lng": "-0.143052",
+        "region": "Europe"
+    }
+]

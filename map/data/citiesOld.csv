@@ -1,0 +1,105 @@
+id,name,countryId
+N0,New York City,USA
+E1,E. Rockaway,USA
+S2,Swanton,USA
+C3,Cedarhurst,USA
+E4,Elmont,USA
+P5,Philadelphia,USA
+D6,Delmar,USA
+P7,Playa del Carmen,MEX
+I8,Inwood,USA
+Z9,Zakynthos,GRC
+C10,Chappaqua,USA
+n11,null,ATG
+P12,Poughkeepsie,USA
+V13,Valley Stream,USA
+P14,Pulborough,GBR
+L15,Lawrence,USA
+C16,Chicago,USA
+W17,Woodmere,USA
+M18,Monaco,MCO
+A19,Atlantic Beach,USA
+R20,Rome,USA
+F21,Franklin Square,USA
+A22,Artà,ESP
+D23,Dubai,ARE
+P24,Putnam Valley,USA
+R25,Rochester,USA
+P26,Ponte D'arce,ITA
+H27,Hawthorne,USA
+C28,Castiglioncello,ITA
+L29,London,USA
+N30,N. Woodmere,USA
+L31,Lynbrook,USA
+L32,Long Beach,USA
+L33,Long Island,USA
+P34,Palisades,USA
+N35,New York,USA
+S36,Santo Domingo,DOM
+L37,Los Angeles,USA
+B38,Bedford Hills,USA
+N39,New Jersey,USA
+M40,Malverne,USA
+M41,Miami,USA
+Q42,Queenstown,NZL
+T43,The Hamptons,USA
+M44,Mount Kisco,USA
+B45,Berlin,DEU
+A46,Alcossebre,ESP
+M47,Milan,ITA
+M48,Madrid,ESP
+S49,Shenzen,CHN
+D50,De Kwakel,NLD
+T51,Tel Aviv,ISR
+G52,George Town,CYM
+M53,Mumbai,IND
+B54,Ballingarry,IRL
+M55,Melbourne,AUS
+W56,Woodsburgh,USA
+Z57,Zurich,CHE
+H58,Hewlett Neck,USA
+S59,Shanghai,CHN
+P60,Punta Cana,DOM
+R61,Rio,BRA
+S62,San Francisco,USA
+F63,Frankfurt,DEU
+A64,Akumal,MEX
+O65,Osaka,JPN
+S66,San Diego,USA
+S67,Sydney,AUS
+W68,West End,CYM
+D69,Dubai,ARE
+V70,Victoria,CAN
+G71,Geneva,CHE
+C72,Cooperstown,USA
+S73,Singapore,SGP
+M74,Monsuaba,BRA
+M75,Mexico City,MEX
+P76,Padua,ITA
+B77,Beijing,CHN
+F78,Ferndale,USA
+M79,Monaco,MCO
+F80,Floral Park,USA
+P81,Paris,FRA
+A82,Alcobendas,ESP
+H83,Hong Kong,CHN
+E84,E Atlantic Beach,USA
+T85,Tokyo,JPN
+E86,El Puerto de Santa María,ESP
+T87,Toronto,CAN
+M88,Marbella,ESP
+S89,San Francisco,USA
+S90,Savannah,USA
+V91,Vancouver,CAN
+H92,Hartsdale,USA
+M93,Madrid,ESP
+A94,Anza,USA
+L95,London,GBR
+K96,Kemptville,CAN
+S97,Seoul,KOR
+A98,Armonk,USA
+M99,Miami,USA
+H100,Ha'apiti,PYF
+L101,Los Angeles,USA
+S102,San Rafael,CRI
+R103,Rye,USA
